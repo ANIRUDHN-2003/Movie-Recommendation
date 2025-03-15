@@ -9,7 +9,7 @@ document.getElementById('movie-form').addEventListener('submit', function(event)
 
     const movieImages = {
         action: [
-            { title: 'Mad Max: Fury Road', image: 'images/madmax.jpg' },
+            { title: 'WAR', image: 'images/war.jpg' },
             { title: 'The Dark Knight', image: 'images/darkknight.jpg' },
             { title: 'Avengers: Endgame', image: 'images/avengers.jpg' },
             { title: 'Gladiator', image: 'images/gladiator.jpg' }
